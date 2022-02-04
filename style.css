@@ -1,0 +1,21 @@
+.line{
+width:70px;
+height:6px;
+background-color:black;
+margin:8px auto;
+}
+
+body{
+text-align: center;
+}
+#app{
+background:linear-gradient(green, yellowgreen, cyan);
+}
+
+#game{
+    background:linear-gradient(yellowgreen, cyan);
+}
+
+#chat_bot{
+    background:linear-gradient(yellow, orange);
+}
